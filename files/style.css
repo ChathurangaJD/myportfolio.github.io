@@ -120,6 +120,8 @@ body {
     display: inline-flex;
     justify-content: center;
     align-items: center;
+    margin-right: 10%;
+    margin-left: 10%;
     width: 40px;
     height: 40px;
     background: transparent;
@@ -142,7 +144,7 @@ body {
 
 .btn-box {
     display: inline-block;
-    padding: 12px 28px;
+    padding: 12px 20px;
     background: #0ef;
     border-radius: 40px;
     font-size: 15px;
@@ -163,7 +165,7 @@ body {
 .img {
     display: inline-block;
     left: 55%;
-    bottom: 15%;
+    bottom: -15%;
     margin-right: 5%;
     padding: 50px;
     background-repeat: no-repeat;
@@ -219,7 +221,8 @@ body {
 }
 
 .about-text {
-    margin-right: 2%;
+    margin-right: 10%;
+    margin-left: 10%;
 }
 
 .about-text h2 {
